@@ -1,9 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Sampath kumar</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/87/7f/a5/877fa5a5411f5bdc3091222445f6c823.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 
 <p align="left"> <a href="https://twitter.com/sampathlam" target="blank"><img src="https://img.shields.io/twitter/follow/sampathlam?logo=twitter&style=for-the-badge" alt="sampathlam" /></a> </p>
 
