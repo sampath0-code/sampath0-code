@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sampath kumar</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <a href="https://twitter.com/sampathlam" target="blank"><img src="https://img.shields.io/twitter/follow/sampathlam?logo=twitter&style=for-the-badge" alt="sampathlam" /></a> </p>
 
