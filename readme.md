@@ -45,7 +45,7 @@ Intreseted to work on AI, ML, DL, Data Science.
     <img alt="Calculus" src="https://img.shields.io/badge/Calculus%20-%2314354C.svg?style=plastic&logo=Calculus&logoColor=white">
 </p>
 
-### Programming languages 💻🎉:
+### Programming languages 👨‍💻🎉:
 <p align="left"> 
   &emsp;  
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%232370ED.svg?style=plastic&logo=Python&logoColor=white">
@@ -65,7 +65,27 @@ Intreseted to work on AI, ML, DL, Data Science.
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%2300599C.svg?style=plastic&logo=JavaScript%2B%2B&logoColor=white">
 </p>
 
-
+### Frame Works💻🎉:
+<p align="left"> 
+  &emsp;  
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%232370ED.svg?style=plastic&logo=Pandas&logoColor=white">
+  &emsp;
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy%20-%2300599C.svg?style=plastic&logo=Numpy%2B%2B&logoColor=white">
+  &emsp;
+     <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit-learn%20-%23F7DF1E.svg?style=plastic&logo=Scikit-learn&logoColor=black">
+  &emsp;
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23007396.svg?style=plastic&logo=Matplotlib&logoColor=white">
+  &emsp;
+    <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn%20-%2314354C.svg?style=plastic&logo=Seaborn&logoColor=white">
+  &emsp;
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%2300599C.svg?style=plastic&logo=PyTorch%2B%2B&logoColor=white">
+  &emsp;
+     <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23F7DF1E.svg?style=plastic&logo=Keras&logoColor=black">
+  &emsp;
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%2300599C.svg?style=plastic&logo=TensorFlow%2B%2B&logoColor=white">
+  &emsp;
+    <img alt="Dask" src="https://img.shields.io/badge/Dask%20-%2300599C.svg?style=plastic&logo=Dask%2B%2B&logoColor=white">
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="left">
