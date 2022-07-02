@@ -87,6 +87,20 @@ Intreseted to work on AI, ML, DL, Data Science.
     <img alt="Dask" src="https://img.shields.io/badge/Dask%20-%2300599C.svg?style=plastic&logo=Dask%2B%2B&logoColor=white">
 </p>
 
+## Connect with me 🤝:
+<p align="center">
+	<a href="mailto:lamsampathkumar0@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/sampath0-code"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<!--<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a> -->
+	<a href="https://www.linkedin.com/in/sampath-kumar-lam-0/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/lamsampathkumar0"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://medium.com/@lamsampathkumar0"><img src="https://img.shields.io/badge/Medium-%231877F2.svg?style=plastic&logo=Medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://twitter.com/SampathLam"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?style=plastic&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+  
+<!--<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white"   alt="Instagram"/></a>-->
+</p>
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="left">
 <a href="https://github.com/sampath0-code">
