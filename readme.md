@@ -27,10 +27,41 @@ Intreseted to work on AI, ML, DL, Data Science.
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+## 🛠️ My Skills
+
+### Mathematics🤓💯📚 :
+
+<p align="left"> 
+  &emsp;  
+    <img alt="Statistics" src="https://img.shields.io/badge/Statistics%20-%232370ED.svg?style=plastic&logo=Statistics&logoColor=white">
+  &emsp;
+    <img alt="Discrete Maths" src="https://img.shields.io/badge/Discrete Maths%20-%2300599C.svg?style=plastic&logo=Discrete Maths%2B%2B&logoColor=white">
+  &emsp;
+     <img alt="Linear Algebra" src="https://img.shields.io/badge/Linear Algebra%20-%23F7DF1E.svg?style=plastic&logo=Linear Algebra&logoColor=black">
+  &emsp;
+    <img alt="Probability" src="https://img.shields.io/badge/Probability-%23007396.svg?style=plastic&logo=Probability&logoColor=white">
+  &emsp;
+    <img alt="Calculus" src="https://img.shields.io/badge/Calculus%20-%2314354C.svg?style=plastic&logo=Calculus&logoColor=white">
+</p>
+
+### Programming languages 💻🎉:
+<p align="left"> 
+  &emsp;  
+    <img alt="Statistics" src="https://img.shields.io/badge/Statistics%20-%232370ED.svg?style=plastic&logo=Statistics&logoColor=white">
+  &emsp;
+    <img alt="Discrete Maths" src="https://img.shields.io/badge/Discrete Maths%20-%2300599C.svg?style=plastic&logo=Discrete Maths%2B%2B&logoColor=white">
+&emsp;
+     <img alt="Linear Algebra" src="https://img.shields.io/badge/Linear Algebra%20-%23F7DF1E.svg?style=plastic&logo=Linear Algebra&logoColor=black">
+&emsp;
+    <img alt="Probability" src="https://img.shields.io/badge/Probability-%23007396.svg?style=plastic&logo=Probability&logoColor=white">
+&emsp;
+    <img alt="Calculus" src="https://img.shields.io/badge/Calculus%20-%2314354C.svg?style=plastic&logo=Calculus&logoColor=white">
+</p>
+
+
+
 ### ⚙️ &nbsp;GitHub Analytics
-
-
-
 <p align="left">
 <a href="https://github.com/sampath0-code">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sampath0-code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
