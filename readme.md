@@ -48,15 +48,21 @@ Intreseted to work on AI, ML, DL, Data Science.
 ### Programming languages 💻🎉:
 <p align="left"> 
   &emsp;  
-    <img alt="Statistics" src="https://img.shields.io/badge/Statistics%20-%232370ED.svg?style=plastic&logo=Statistics&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%232370ED.svg?style=plastic&logo=Python&logoColor=white">
   &emsp;
-    <img alt="Discrete Maths" src="https://img.shields.io/badge/Discrete Maths%20-%2300599C.svg?style=plastic&logo=Discrete Maths%2B%2B&logoColor=white">
-&emsp;
-     <img alt="Linear Algebra" src="https://img.shields.io/badge/Linear Algebra%20-%23F7DF1E.svg?style=plastic&logo=Linear Algebra&logoColor=black">
-&emsp;
-    <img alt="Probability" src="https://img.shields.io/badge/Probability-%23007396.svg?style=plastic&logo=Probability&logoColor=white">
-&emsp;
-    <img alt="Calculus" src="https://img.shields.io/badge/Calculus%20-%2314354C.svg?style=plastic&logo=Calculus&logoColor=white">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2300599C.svg?style=plastic&logo=SQL%2B%2B&logoColor=white">
+  &emsp;
+     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?style=plastic&logo=MongoDB&logoColor=black">
+  &emsp;
+    <img alt="C++" src="https://img.shields.io/badge/C++-%23007396.svg?style=plastic&logo=C++&logoColor=white">
+  &emsp;
+    <img alt="Java" src="https://img.shields.io/badge/Java%20-%2314354C.svg?style=plastic&logo=Java&logoColor=white">
+  &emsp;
+    <img alt="C" src="https://img.shields.io/badge/C%20-%2300599C.svg?style=plastic&logo=C%2B%2B&logoColor=white">
+  &emsp;
+     <img alt="R" src="https://img.shields.io/badge/R%20-%23F7DF1E.svg?style=plastic&logo=R&logoColor=black">
+  &emsp;
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%2300599C.svg?style=plastic&logo=JavaScript%2B%2B&logoColor=white">
 </p>
 
 
