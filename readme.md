@@ -2,7 +2,7 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sampath 👋 </h2>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/25/2b/cd252b6bbf2799e429457b7c45f47c25.gif">
 
 ### 👨🏻‍💻 &nbsp;About Me
 I am Computer Scince Engineer, currently I am working on Data Science Projects, progressing myself day-by-day.
