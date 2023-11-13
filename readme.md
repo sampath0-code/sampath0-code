@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/25/2b/cd252b6bbf2799e429457b7c45f47c25.gif">
 
 ### 👨🏻‍💻 &nbsp;About Me
-I am Computer Scince Engineer, currently I am working for Syncfusion, progressing myself day-by-day.
+I am Computer Science Engineer, currently I am working for Syncfusion, progressing myself day-by-day.
 Intreseted to work on AI, ML, DL, Data Science.
 
 - 👨‍💻 All of my projects are available at [https://github.com/sampath0-code](https://github.com/sampath0-code)
