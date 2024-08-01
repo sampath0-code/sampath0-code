@@ -5,14 +5,14 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/25/2b/cd252b6bbf2799e429457b7c45f47c25.gif">
 
 ### 👨🏻‍💻 &nbsp;About Me
-I am Computer Science Engineer, currently I am working for Syncfusion, progressing myself day-by-day.
+I am Computer Science Engineer, currently I am working as a Mentor in Teks Academy, progressing myself day-by-day.
 Intreseted to work on AI, ML, DL, Data Science.
 
 - 👨‍💻 All of my projects are available at [https://github.com/sampath0-code](https://github.com/sampath0-code)
 
 - 📝 I regularly write articles on [https://medium.com/@lamsampathkumar0](https://medium.com/@lamsampathkumar0)
 
-- 🎓 I'm currently studying Computer Science Engineering at St.Peter's University.
+- 🎓 I'm currently Working in Teks Academy as a Data Science Mentor.
 
 - 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 
