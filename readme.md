@@ -22,7 +22,7 @@ Intreseted to work on AI, ML, DL, Data Science.
 
 - 🌱 I'm on track for learning more about Artificial Intelligence, Machine Learining and Cloud Computing.
 
-- ✉️ You can shoot me an email at lamsampathkumar0@gmail.com I'll try to respond as soon as I can.
+- ✉️ You can shoot me an email at sam.london.2703@gmail.com I'll try to respond as soon as I can.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
