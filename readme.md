@@ -16,13 +16,13 @@ Intreseted to work on AI, ML, DL, Data Science.
 
 - 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 
-- 📫 How to reach me **lamsampathkumar0@gmail.com**
+- 📫 How to reach me **sam.london.2703@gmail.com**
 
 - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
 - 🌱 I'm on track for learning more about Artificial Intelligence, Machine Learining and Cloud Computing.
 
-- ✉️ You can shoot me an email at sam.london.2703@gmail.com I'll try to respond as soon as I can.
+- ✉️ You can shoot me an email at lamsampathkumar0@gmail.com I'll try to respond as soon as I can.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
